@@ -1,0 +1,31 @@
+body {
+  font-family: 'Spartan', sans-serif;
+  background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .5)), url('https://wallpaperaccess.com/full/253332.jpg'), no-repeat center center/cover;
+  height: 100vh;
+  
+}
+
+.underline {
+  background-color: white !important;
+  height: 2px !important;
+  width: 40% !important;
+}
+
+.card-underline {
+  background-color: black !important;
+  height: 2px !important;
+  width: 60% !important;
+}
+
+.library-card{
+  max-width: 400px;
+  background-color: #fff9e5 !important; 
+}
+ul {
+  background-color: #fff9e5 !important; 
+}
+
+form{
+  max-width: 400px;
+  
+}
